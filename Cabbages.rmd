@@ -24,7 +24,8 @@ veggy <- cabbages
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
-
+Predict VitC based on cultivation method.
+VitC is a numerical , cultivation is a categorical , so we use the numerical-Cat helper file.
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
