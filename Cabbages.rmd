@@ -38,6 +38,7 @@ VitC is a numerical , cultivation is a categorical , so we use the numerical-Cat
 ```{r}
 plot(VitC~Cult,data=veggy)
 ```
+Based on the information given by the graph it seems to be that c52 contains more VitC.
 
 ### Numerical Descriptive Results
 
