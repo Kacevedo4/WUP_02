@@ -43,6 +43,9 @@ Based on the information given by the graph it seems to be that c52 contains mor
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
 
 ## Inferential Results
 
