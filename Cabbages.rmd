@@ -24,8 +24,10 @@ veggy <- cabbages
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
+
 Predict VitC based on cultivation method.
 VitC is a numerical , cultivation is a categorical , so we use the numerical-Cat helper file.
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
@@ -46,6 +48,7 @@ Based on the information given by the graph it seems to be that c52 contains mor
 ```{r}
 favstats(VitC~Cult,data=veggy)
 ```
+According to the data in our table it shows the median of c39 is 51 which mean its less than the media of c52 which is 64.
 
 ## Inferential Results
 
